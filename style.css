@@ -1,0 +1,115 @@
+body{
+    background-color: #D4C4AA;
+}
+.main{
+    background-color: whitesmoke;
+    width: 40%;
+    border-radius: 25px;
+    margin: 6% 27%; 
+}
+.container{
+    width: 90%;
+    margin: auto;
+    padding-top: 25px;
+}
+.favour{
+    width: 100%;
+}
+.favour img{
+    width: 100%;
+    border-radius: 15px;
+}    
+.intro h1{
+    font-size: 37px;
+}
+.intro p{
+    margin-top: -10PX;
+}
+.preparation{
+    margin-top: 7%;
+    margin-left: 2.5%;
+    background-color: #d4c4aa3b;
+    border-radius: 3px;
+    padding: 3px 5px;
+}
+.preparation h3{
+    color: rgb(116, 8, 8);
+    font-size: 24px;
+
+}
+.preparation ul{
+    margin-top: -1%;
+}
+.preparation ul li{
+    margin: 2% auto;
+    font-family: Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.ingre{
+    border-bottom: 1px solid gray;
+}
+.ingre h1{
+    color: rgb(116, 8, 8);
+}
+.ingre ul li{
+    margin: 1.5% auto;
+}
+.instru{
+    border-bottom: 1px solid gray;
+    padding-bottom: 3%;
+}
+.instru h1{
+    color: rgb(116, 8, 8);
+}
+.instru ol li{
+    margin: 1.5% auto;
+}
+.instru ol li::marker{
+    color: rgb(116, 8, 8);
+    font-weight: 900;
+}
+.nutri h1{
+    color: rgb(116, 8, 8);
+}
+.nut1{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid gray;
+    padding: 1%;
+}
+.nut2{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid gray;
+    padding: 1%;
+}
+.nut3{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid gray;
+    padding: 1%;
+}
+.nut4{
+    display: flex;
+    flex-direction: row;
+    padding: 1%;
+}
+.nut{
+    width: 48%;
+    margin-left: 2%;
+}
+.amount{
+    width: 52%; 
+    font-size: 17px;
+    color:  rgb(116, 8, 8) ;
+    font-weight: 600
+}
+footer{
+    text-align: center;
+    padding-bottom: 2%;
+}
+footer a{
+    color: #0a0a0a;
+    text-decoration: none;
+    font-weight: 600;
+}
